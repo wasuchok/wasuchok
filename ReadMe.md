@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey there! I'm a developer who loves turning caffeine into code ☕💻  <br>I enjoy building cool systems, breaking them (sometimes on purpose 😅), and learning from every crash.  <br>When I’m not coding, you’ll probably find me sleeping like a pro 😴 or exploring new tech just for fun.  <br>I believe that every bug has a story—and I’m the one who writes the sequel. 🧩  <br>Let’s build something awesome (after a nap, of course)!
 
 
