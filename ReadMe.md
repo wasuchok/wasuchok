@@ -16,9 +16,6 @@ Hey there! I'm a developer who loves turning caffeine into code ☕💻  <br>I e
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wasuchok&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![wasuchok profile views](https://u8views.com/api/v1/github/profiles/116450019/views/day-week-month-total-count.svg)](https://u8views.com/github/wasuchok)
 
 ![](https://komarev.com/ghpvc/?username=wasuchok)
 
