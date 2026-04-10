@@ -24,7 +24,7 @@
 ## `/visual_feed`
 
 <div align="center">
-  <img width="100%" src="https://media.giphy.com/media/l41YsxKKVYnucStag/giphy.gif" alt="Cyber visual" />
+  <img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Clean coding workspace" />
 </div>
 
 ---
