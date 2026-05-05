@@ -2,7 +2,7 @@
   <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop" width="120" height="120" style="border-radius: 24px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="App Icon"/>
   
   <h1>📱 Wasuchok App</h1>
-  <p><b>Category:</b> Mid-Level Developer | <b>Role:</b> Mobile-First Engineer</p>
+  <p><b>Category:</b> Developer | <b>Role:</b> Mobile-First Engineer</p>
   
   <a href="https://github.com/wasuchok">
     <img src="https://img.shields.io/badge/GET-DEVELOPER_FREE-007AFF?style=for-the-badge&logo=apple" alt="Download"/>
