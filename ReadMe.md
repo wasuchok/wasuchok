@@ -1,100 +1,105 @@
 <div align="center">
-
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" style="border-radius: 10px;" alt="Hacker Troll Cat" />
-
-# 🥫 NUTRITION FACTS 🥫
-### **Product:** WASUCHOK (Mobile & Backend Edition)
-
-<img src="https://barcode.tec-it.com/barcode.ashx?data=MOBILE-GO-RAG-DEV&code=Code128&translate-esc=false" alt="Barcode"/>
-
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop" width="120" height="120" style="border-radius: 24px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="App Icon"/>
+  
+  <h1>📱 Wasuchok App</h1>
+  <p><b>Category:</b> Mid-Level Developer | <b>Role:</b> Mobile-First Engineer</p>
+  
+  <a href="https://github.com/wasuchok">
+    <img src="https://img.shields.io/badge/GET-DEVELOPER_FREE-007AFF?style=for-the-badge&logo=apple" alt="Download"/>
+  </a>
 </div>
 
----
+<br/>
 
-**Serving Size:** 1 Mid-Level Developer (Mobile-First & Highly Adaptable)  
-**Servings Per Container:** 1 (Absolutely Unique)
-
-<table width="100%">
-  <tr>
-    <th colspan="2" align="left"><h3>Amount Per Serving</h3></th>
-  </tr>
-  <tr>
-    <td><b>Silky Smooth UI / UX</b></td>
-    <td align="right"><b>120fps</b></td>
-  </tr>
-  <tr>
-    <th colspan="2" align="right">% Daily Value*</th>
-  </tr>
-  <tr>
-    <td><b>📱 Mobile Mastery</b> <i>(Flutter, Dart, State Management)</i></td>
-    <td align="right"><b>200%</b></td>
-  </tr>
-  <tr>
-    <td><b>⚙️ High-Performance Backend</b> <i>(Golang, gRPC, Concurrent Systems)</i></td>
-    <td align="right"><b>180%</b></td>
-  </tr>
-  <tr>
-    <td><b>🧠 AI & RAG Implementation</b> <i>(LLMs, Vector DBs, Prompts)</i></td>
-    <td align="right"><b>100%</b></td>
-  </tr>
-  <tr>
-    <td><b>☁️ Server & Infrastructure</b> <i>(Docker, PostgreSQL, MongoDB)</i></td>
-    <td align="right"><b>90%</b></td>
-  </tr>
-  <tr>
-    <td><b>🎨 Frontend Agility</b> <i>(Vue, Next.js, Tailwind)</i></td>
-    <td align="right"><b>85%</b></td>
-  </tr>
-  <tr>
-    <td><hr/></td><td><hr/></td>
-  </tr>
-  <tr>
-    <td><b>🐛 App Crashes & Memory Leaks</b></td>
-    <td align="right"><b>< 0.01%</b></td>
-  </tr>
-  <tr>
-    <td><b>☕ Coffee Concentration</b></td>
-    <td align="right"><b>10,000%</b></td>
+<table width="100%" align="center">
+  <tr align="center">
+    <td>
+      <h3>4.9 ★</h3>
+      <p>9.9K Ratings</p>
+    </td>
+    <td>
+      <h3>#1</h3>
+      <p>Developer Tools</p>
+    </td>
+    <td>
+      <h3>18+</h3>
+      <p>Coffee Cups/Week</p>
+    </td>
   </tr>
 </table>
 
-*\* Percent Daily Values are based on a 24-hour sprint diet. Your daily values may be higher or lower depending on build times and App Store reviews.*
+---
+
+### 🆕 What's New
+**Version 20.26.5**
+- `[Enhanced]` Mobile UI/UX now runs at a silky smooth 120fps (Flutter & Dart).
+- `[Added]` Integrated high-performance backend processing using **Golang** & gRPC.
+- `[Added]` Smart features using **AI & RAG** (Retrieval-Augmented Generation) with Vector DBs.
+- `[Fixed]` Reduced memory leaks by converting coffee directly into code.
 
 ---
 
-### 🧪 ACTIVE INGREDIENTS
-`100% Organic Dart & Flutter`, `Pure Golang Extract for Concurrency`, `Artificial Python Intelligence (RAG Infused)`, `Refined TypeScript`, `C/C++ Preservatives`.  
+### 📱 `lib/main.dart` (Developer Architecture)
+> เพราะเป็นสาย Mobile App ขออธิบายตัวผมผ่าน **Flutter Widget Tree** เลยดีกว่าครับ!
 
-*(Warning: May contain traces of StackOverflow copy-pasting, late-night Git commits, and uncontrollable urges to optimize Goroutines).*
+```dart
+import 'package:wasuchok/skills.dart';
 
-### 🛑 SIDE EFFECTS MAY INCLUDE:
-- Mobile animations so smooth your designers might shed a tear.
-- Backend APIs (Go) that respond faster than your network allows.
-- Unprovoked mumbling about "Clean Architecture", "Channels", and "Widget Trees".
-- Sudden integration of AI/RAG into systems that didn't even know they needed it.
-
-### 📖 USAGE INSTRUCTIONS:
-1. Provide your Figma designs and scaling requirements.
-2. Administer one (1) large cup of Iced Americano.
-3. Stand back, wait a few sprint cycles, and deploy to App Store, Play Store, and Cloud simultaneously.
+class DeveloperProfile extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Wasuchok | Mobile & Backend'),
+      ),
+      body: SafeArea(
+        child: ListView(
+          padding: EdgeInsets.all(16.0),
+          children: const [
+            /// 📱 Core Engine: Mobile App
+            MobileDevFeature(
+              framework: 'Flutter',
+              language: 'Dart',
+              stateManagement: ['Riverpod', 'Bloc', 'Provider'],
+              specialty: 'Pixel-Perfect UI & Complex Animations',
+            ),
+            
+            /// ⚙️ Powerhouse: Backend
+            BackendService(
+              primary: 'Golang',
+              architecture: 'Microservices & Clean Architecture',
+              features: ['High Concurrency (Goroutines)', 'REST / gRPC'],
+              databases: ['PostgreSQL', 'MongoDB', 'Redis'],
+            ),
+            
+            /// 🧠 The Brains: AI & RAG
+            CognitiveModule(
+              type: 'RAG (Retrieval-Augmented Generation)',
+              tools: ['LLMs', 'Vector Databases', 'Prompt Engineering'],
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+```
 
 ---
+
+### 🛠 System Requirements & Compatibility
+- **Primary OS:** iOS, Android (Cross-Platform Native)
+- **Infrastructure:** Docker, Nginx, Linux Server
+- **Dependencies:** Iced Americano (Required for optimal performance)
 
 <div align="center">
-  <h3>📞 EMERGENCY CONTACT (To order more stock)</h3>
-  <b><a href="https://github.com/wasuchok">[ OPEN GITHUB WAREHOUSE ]</a></b> &nbsp; | &nbsp; <b><a href="https://instagram.com/nongtee_t">[ VIEW INSTAGRAM LOGS ]</a></b>
-  <br/><br/>
-  <i>KEEP OUT OF REACH OF LEGACY JAVA SYSTEMS.</i>
-
-```text
- 　　　　　／＞　　フ
-　　　　　| 　_　 _ l
-　 　　　／` ミ＿xノ   < "Bug? What bug? It's a feature, hooman."
-　　 　 /　　　 　 |
-　　　 /　 ヽ　　 ﾉ
-　 　 │　　|　|　|
-　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)__)
-　＼二つ
-```
+  <br/>
+  <p><i>Ready to install this developer into your team?</i></p>
+  <a href="https://github.com/wasuchok">
+    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/nongtee_t">
+    <img src="https://img.shields.io/badge/Follow_on_IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
