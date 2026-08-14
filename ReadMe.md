@@ -1,15 +1,15 @@
 <div align="center">
 
-### when the code works and I don't know why
+### POV: `it works on my machine` 💀
 
 <a href="https://youtu.be/QNYT9wVwQ8A?si=3mdxhM4Dv4YnDw8L">
-  <img src="https://media1.tenor.com/m/uJq4-SRTOngAAAAd/miki-matsubara.gif" width="500">
+  <img src="https://media1.tenor.com/m/UX1o8KkuycgAAAAd/coding.gif" width="450"/>
 </a>
 
-```bash
-git commit -m "somehow it works"
-```
-
 **🎧 Stay With Me**
+
+```bash
+git commit -m "don't touch it, it works"
+```
 
 </div>
