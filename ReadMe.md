@@ -1,23 +1,15 @@
 <div align="center">
 
-# 👨‍💻 Developer
+### when the code works and I don't know why
 
-<img src="https://media1.tenor.com/m/qbXlst0DEKcAAAAd/miki-matsubara-city-pop.gif" width="420"/>
+<a href="https://youtu.be/QNYT9wVwQ8A?si=3mdxhM4Dv4YnDw8L">
+  <img src="https://media1.tenor.com/m/uJq4-SRTOngAAAAd/miki-matsubara.gif" width="500">
+</a>
 
-### 🎧 Stay With Me
-
-```text
-99 bugs in the code.
-99 bugs in the code.
-
-Take one down,
-patch it around...
-
-127 bugs in the code.
+```bash
+git commit -m "somehow it works"
 ```
 
-### 🗿
-
-**It works on my machine.**
+**🎧 Stay With Me**
 
 </div>
